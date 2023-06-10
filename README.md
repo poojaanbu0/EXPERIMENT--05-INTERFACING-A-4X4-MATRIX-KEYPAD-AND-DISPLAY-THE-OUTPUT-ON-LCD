@@ -178,8 +178,6 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 ## CIRCUIT DIAGRAM 
- 
-
 ## STM 32 CUBE PROGRAM :
 ```
 /*
@@ -403,15 +401,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output screen shots of proteus  :
-![image](https://github.com/poojaanbu0/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119390329/54cc5f37-5122-4590-a59e-9db37a583dc6)
-
-
-![image](https://github.com/poojaanbu0/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119390329/88e012c2-bce0-4b49-b9a0-6b9572405e1b)
-
+![image](https://github.com/poojaanbu0/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119390329/a340c6d6-eb84-4cf0-9c99-a46dd2575727)
+![image](https://github.com/poojaanbu0/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119390329/3ac614cf-11d9-4c4d-b61e-8d16af778d02)
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![image](https://github.com/poojaanbu0/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119390329/45b53cee-96ef-45d7-a8ba-6da63a29aaea)
-
+![image](https://github.com/poojaanbu0/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119390329/5ca610d8-7eb8-48e3-95eb-455cb3211c42)
 
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
